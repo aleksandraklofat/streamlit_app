@@ -1,5 +1,6 @@
-# streamlit_app
+# streamlit_app - Anleitung
 
-Datenvisulaisierung-App mit Streamlit
+Datenvisualisierung mit Streamlit
 
-(weitere Infos auf datenverstehende)
+(weitere Infos auf datenverstehen.de)
+
