@@ -1,4 +1,4 @@
-# streamlit_app - Anleitung
+# Streamlit App - Anleitung
 
 Datenvisualisierung mit Streamlit
 
