@@ -13,5 +13,8 @@ zitat = "Cogito ergo sum"
 st.text('Ein Zitat für heute: "{}"'.format(zitat))
 
 # Write arguments to the app
-# "This is the Swiss Army knife of Streamlit commands"
+# "This is the Swiss Army knife of Streamlit commands" 
+#  st.write() also accepts other data formats, such as numbers, data frames, styled data frames, and assorted objects:
 st.write('Ein Zitat für heute: "{}"'.format(zitat))
+# It is not only for text
+st.write(10*11)
