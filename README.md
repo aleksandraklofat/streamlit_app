@@ -4,7 +4,7 @@ Datenvisualisierung mit Streamlit / Datavis with Streamlit
 
 Introdution to data viusialisation with Streamlit
 
-Introduction
+various data dashboards
 
 
 (weitere Infos auf datenverstehen.de)
