@@ -3,6 +3,8 @@
 Wie visualisiere ich Daten mit Streamlit?
 Datavis with Streamlit
 
+(Infos in German and English)
+
 ## Introduction to data viusialisation with Streamlit
 
 
