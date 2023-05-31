@@ -31,5 +31,9 @@ On Anaconda:
 5. cd (richtiges Directory)
 6. "streamlit run app.py"
 
+On Terminal (with VS Code)
+1. Open "Terminal" in VS Code
+2. run in Terinal "# python -m streamlit run app.py"
+
 ## Cheatsheet: Streamlit with Anaconda
 <img src="https://datenverstehen.de/wp-content/uploads/2022/12/Streamlit-1_cheatsheet.png" alt="Alt text" title="Optional title">
